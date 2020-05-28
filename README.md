@@ -92,4 +92,4 @@ To contact the team, please email [coronavirus-data@ft.com](mailto:cornoavirus-d
 
 If you are aware of a jurisdiction not already listed here which publishes all-cause mortality data that meets the criteria set out above, please send us a link to the source of that data at [coronavirus-data@ft.com](mailto:cornoavirus-data@ft.com).
 
-Alternatively, please submit a pull request to this repository adding the relevant information to the file `[sources.md](/sources.md)`.
+Alternatively, please submit a pull request to this repository adding the relevant information to the file [sources.md](/sources.md).
