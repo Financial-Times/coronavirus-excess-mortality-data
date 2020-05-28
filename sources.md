@@ -1,13 +1,8 @@
+# Financial Times
 # Excess Mortality during the Covid-19 pandemic
 ## Data Sources
 
-The following sources of data were used to assembled the [excess mortality data](README.md) presented in this repository.
-
-## Sources
-
-The data published here has been gathered and standardised from [official sources](sources.md):
-
-The data re-published here has been gathered and standardised from the following [official sources](sources.md):
+The following sources of data were used by Financial Times journalists to assembled the [excess mortality data](README.md) presented in this repository:
 
 ### Austria
 * [Statistics Austria](http://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/gestorbene/index.html)
