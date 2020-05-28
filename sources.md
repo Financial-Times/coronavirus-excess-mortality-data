@@ -52,11 +52,13 @@ The data re-published here has been gathered and standardised from the following
 #### sub-national
 * [National Institute of Statistics](https://www.istat.it/en/archivio/240106)                                                                            
 ### Netherlands
-* [Statistics Netherlands](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70895ned/table?ts=1585918931535)                                                                                                                                       |
+* [Statistics Netherlands](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70895ned/table?ts=1585918931535)
+
 ### Norway
-* [Statistics Norway](https://www.ssb.no/statbank/table/07995/)                                                                                                                                                                                     |
+* [Statistics Norway](https://www.ssb.no/statbank/table/07995/)
+
 ### Peru
-* [Ministry of Health](https://cloud.minsa.gob.pe/s/BGCKJBWKELW8nDi/download?path=%2F&files=Carga_Tableau_12052020.xlsx&downloadStartSecret=ieif5k3ymp)                                                                                             |
+* [Ministry of Health](https://cloud.minsa.gob.pe/s/BGCKJBWKELW8nDi/download?path=%2F&files=Carga_Tableau_12052020.xlsx&downloadStartSecret=ieif5k3ymp)
 
 ### Portugal
 * [Directorate-General for Health](https://evm.min-saude.pt/)                                                                                          
@@ -67,13 +69,17 @@ The data re-published here has been gathered and standardised from the following
 * [St Petersburg Civil Registry Committee](http://kzags.gov.spb.ru/statistics/#3)
   
 ### South Africa 
-* [Medical Research Council](https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa)                                                                                                                                                     |
+* [Medical Research Council](https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa)
+
 ### Spain
-[Institute of Health Carlos III](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#datos)                                                                                                                                          |
+[Institute of Health Carlos III](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#datos)
+
 ### Sweden
-* [Statistics Sweden](https://www.scb.se/contentassets/edc2b33f85ad415d8e7909002253ed84/2020-04-09---preliminar-statistik-over-doda-inkl-eng.xlsx)                                                                                                  |
+* [Statistics Sweden](https://www.scb.se/contentassets/edc2b33f85ad415d8e7909002253ed84/2020-04-09---preliminar-statistik-over-doda-inkl-eng.xlsx)
+
 ### Switzerland
-* [Federal Statistics Office](https://www.bfs.admin.ch/bfs/en/home/statistics/health/state-health/mortality-causes-death.html)                                                                                                                      |
+* [Federal Statistics Office](https://www.bfs.admin.ch/bfs/en/home/statistics/health/state-health/mortality-causes-death.html)
+
 ### Turkey
 #### Istanbul
 * [Istanbul Metropolitan Municipality](https://www.turkiye.gov.tr/istanbul-buyuksehir-belediyesi-vefat-sorgulama)
