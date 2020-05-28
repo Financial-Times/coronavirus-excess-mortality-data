@@ -10,9 +10,13 @@ The repository contains the excess mortality data for all known jurisdictions wh
 
 Most countries publish mortality data with a longer periodicity (typically quarterly or even annually), a longer lag time, or both. This sort of data is not suitable for ongoing analysis during an epidemic and is therefore not included here.
 
+## Data
+
+All of the data can be found in the file [https://github.com/Financial-Times/coronavirus-excess-mortality-data/blob/master/data/ft_excess_deaths.csv](data/ft_excess_deaths.csv) . 
+
 ## Data definitions
 
-All of the data can be found in the file `[ft_excess_deaths.csv](data/ft_excess_deaths.csv)`. For each jurisdiction and each daily, weekly or monthly period, the data contains the following fields:
+For each jurisdiction and each weekly or monthly period, the data contains the following fields:
 
 * `country`: the country to which the data applies
 * `region`: where applicable, the subnational or administrative region. This duplicated `country` for national-level data
@@ -43,7 +47,7 @@ The data published here were used to inform the following Financial Times storie
 
 ## Sources
 
-The data re-published here has been gathered and standardised from the following [official sources](sources.md):
+The data published here has been gathered and standardised from the following [official sources](sources.md):
 
 | id | region           | category   | country        | iso | agency                                                                                                                                                                                                                                  |
 |----:|------------------|------------|----------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
