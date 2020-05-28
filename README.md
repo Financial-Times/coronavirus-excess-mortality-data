@@ -1,7 +1,7 @@
 # Financial Times
 # Excess Mortality during the Covid-19 pandemic
 
-This repository contains excess mortality data for the period covering the 2020 Covid-19 pandemic. The data has been collected from national, regional or municipal agencies that collect death registrations and publish official mortality statistics. These original data reshaped into a standard format by Financial Times journalists to allow cross-national comparisons.
+This repository contains excess mortality data for the period covering the 2020 Covid-19 pandemic. The data has been collected from [national, regional or municipal agencies](#sources) that collect death registrations and publish official mortality statistics. These original data reshaped into a standardised format by Financial Times journalists to allow cross-national comparisons, and has been used to inform the [FT’s reporting on the pandemic](#stories).
 
 The repository contains the excess mortality data for all known jurisdictions which publish all-cause mortality data meeting the following criteria:
 
@@ -9,11 +9,11 @@ The repository contains the excess mortality data for all known jurisdictions wh
 * includes equivalent historical data for at least one full year before 2020, and preferably at least five years (2015-2019)
 * includes data up to at least April 1, 2020
 
-Most countries publish mortality data with a longer periodicity (typically quarterly or even annually), a longer lag time, or both. This sort of data is not suitable for ongoing analysis during an epidemic and is therefore not included here.
+Most countries publish mortality data with a longer periodicity (typically quarterly or even annually), a longer publication lag time, or both. This sort of data is not suitable for ongoing analysis during an epidemic and is therefore not included here.
 
 ## Data
 
-** All of the data can be found in the file [data/ft_excess_deaths.csv](https://github.com/Financial-Times/coronavirus-excess-mortality-data/blob/master/data/ft_excess_deaths.csv). **
+All of the data can be found in the file [data/ft_excess_deaths.csv](https://github.com/Financial-Times/coronavirus-excess-mortality-data/blob/master/data/ft_excess_deaths.csv).
 
 ## Data definitions
 
@@ -72,6 +72,6 @@ To contact the team, please email [coronavirus-data@ft.com](mailto:cornoavirus-d
 
 ## How you can help
 
-If you are aware of a jurisdiction not already listed here which publishes all-cause mortality data that meets the criteria set out above, please send us a link to the source of that data at [coronavirus-data@ft.com](mailto:cornoavirus-data@ft.com).
+If you are aware of a jurisdiction not already [listed here](https://github.com/Financial-Times/coronavirus-excess-mortality-data/blob/master/sources.md) which publishes all-cause mortality data that meets the criteria set out above, please send us a link to the source of that data at [coronavirus-data@ft.com](mailto:cornoavirus-data@ft.com).
 
 Alternatively, please submit a pull request to this repository adding the relevant information to the file [sources.md](https://github.com/Financial-Times/coronavirus-excess-mortality-data/blob/master/sources.md).
