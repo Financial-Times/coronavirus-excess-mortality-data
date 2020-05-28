@@ -1,4 +1,4 @@
-## Excess Mortality during the Covid-19 pandemic
+# Excess Mortality during the Covid-19 pandemic
 ## Data Sources
 
 The following sources of data were used to assembled the [excess mortality data](README.md) presented in this repository.
@@ -9,33 +9,82 @@ The data published here has been gathered and standardised from [official source
 
 The data re-published here has been gathered and standardised from the following [official sources](sources.md):
 
-| id | region           | category   | country        | iso | agency                                                                                                                                                                                                                                  |
-|----:|------------------|------------|----------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  |                  |            | Austria        | AUT | [Statistics Austria](http://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/gestorbene/index.html)                                                                                                                     |
-| 2  |                  |            | Belgium        | BEL | [Sciensanto](https://covid-19.sciensano.be/fr/covid-19-situation-epidemiologique)                                                                                                                                                                 |
-| 3  | Manaus           |            | Brazil         | BRA | [Civil Registry of Brazil](https://transparencia.registrocivil.org.br/registros)                                                                                                                                                                  |
-| 4  |                  |            | Chile          | CHL | [Civil Registry of Chile](https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto32)                                                                                                                                              |
-| 5  |                  |            | Denmark        | DNK | [Statistics Denmark](https://m.statbank.dk/TableInfo/DODC2)                                                                                                                                                                                       |
-| 6  | Guayas           |            | Ecuador        | ECU | [Civil Registry of Ecuador](https://www.registrocivil.gob.ec/cifras/)                                                                                                                                                                             |
-| 7  |                  | current    | France         | FRA | [National Institute of Statistics and Economic Studies](https://insee.fr/fr/information/4470857)                                                                                                                                                  |
-| 8  |                  |            | Germany        | DEU | [Federal Statistics Office](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/sterbefallzahlen.html)                                                                                                |
-| 9 |                  |            | Iceland        | ISL | [Statistics Iceland](https://hagstofa.is/utgafur/tilraunatolfraedi/danir-tt/)                                                                                                                                                                     |
-| 10 | Jakarta          |            | Indonesia      | IDN | [Jakarta Provincial Park and Forest Service](https://pertamananpemakaman.jakarta.go.id/v813/t1p1/csv-data25.csv/YXNzZXRzL2RhdGEvY3N2LXBlbWFrYW1hbi8-)                                                                                             |
-| 11 |                  |            | Israel         | ISR | [Minstry of Health](https://www.health.gov.il/UnitsOffice/HD/PH/epidemiology/Pages/epidemiology_report.aspx?WPID=WPQ7&PN=6)                                                                                                                       |
-| 12 | sub-national                 |            | Italy         | ITA | [National Institute of Statistics](https://www.istat.it/en/archivio/240106)                                                                                                                                                                       |
-| 13 | national                |            | Italy          | ITA | [National Institute for Social Security](https://www.inps.it/docallegatiNP/Mig/Dati_analisi_bilanci/Nota_CGSA_mortal_Covid19_def.pdf)                                                                                                                                                                       |
-| 14 |                  |            | Netherlands    | NLD | [Statistics Netherlands](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70895ned/table?ts=1585918931535)                                                                                                                                       |
-| 15 |                  |            | Norway         | NOR | [Statistics Norway](https://www.ssb.no/statbank/table/07995/)                                                                                                                                                                                     |
-| 16 |                  |            | Peru           | PER | [Ministry of Health](https://cloud.minsa.gob.pe/s/BGCKJBWKELW8nDi/download?path=%2F&files=Carga_Tableau_12052020.xlsx&downloadStartSecret=ieif5k3ymp)                                                                                             |
-| 17 |                  |            | Portugal       | PRT | [Directorate-General for Health](https://evm.min-saude.pt/)                                                                                                                                                                                       |
-| 18 | Moscow           |            | Russia         | RUS | [Moscow city government](https://data.mos.ru/opendata/7704111479-dinamika-registratsii-aktov-grajdanskogo-sostoyaniya?pageNumber=1&versionNumber=3&releaseNumber=42)                                                                              |
-| 19 | St Petersburg           |            | Russia         | RUS | [St Petersburg Civil Registry Committee](http://kzags.gov.spb.ru/statistics/#3)                                                                              |
-| 20 |                  |            | South Africa   | ZAF | [Medical Research Council](https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa)                                                                                                                                                     |
-| 21 |                  |            | Spain          | ESP | [Institute of Health Carlos III](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#datos)                                                                                                                                          |
-| 22 |                  |            | Sweden         | SWE | [Statistics Sweden](https://www.scb.se/contentassets/edc2b33f85ad415d8e7909002253ed84/2020-04-09---preliminar-statistik-over-doda-inkl-eng.xlsx)                                                                                                  |
-| 23 |                  |            | Switzerland    | CHE | [Federal Statistics Office](https://www.bfs.admin.ch/bfs/en/home/statistics/health/state-health/mortality-causes-death.html)                                                                                                                      |
-| 24 | Istanbul         |            | Turkey         | TUR | [Istanbul Metropolitan Municipality](https://www.turkiye.gov.tr/istanbul-buyuksehir-belediyesi-vefat-sorgulama)                                                                                                                                   |
-| 25 | England & Wales  |            | United Kingdom | GBR | [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales)                                                        |
-| 26 | Scotland         |            | United Kingdom | GBR | [National Records of Scotland](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/general-publications/weekly-and-monthly-data-on-births-and-deaths/deaths-involving-coronavirus-covid-19-in-scotland) |
-| 27 | Northern Ireland |            | United Kingdom | GBR | [Northern Ireland Statistics and Research Agency](https://www.nisra.gov.uk/publications/weekly-deaths)                                                                                                                                            |
-| 28 |                  |            | United States  | USA | [National Center for Health Statistics](https://gis.cdc.gov/grasp/fluview/mortality.html)                                                                                                                                                         |
+### Austria
+* [Statistics Austria](http://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/gestorbene/index.html)
+
+### Belgium
+* [Sciensanto](https://covid-19.sciensano.be/fr/covid-19-situation-epidemiologique)
+
+### Brazil
+* [Civil Registry of Brazil](https://transparencia.registrocivil.org.br/registros)
+
+### Chile
+ * [Civil Registry of Chile](https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto32)
+
+### Denmark
+ * [Statistics Denmark](https://m.statbank.dk/TableInfo/DODC2)
+
+### Ecuador
+#### Guayas
+* [Civil Registry of Ecuador](https://www.registrocivil.gob.ec/cifras/)
+
+### France
+* National Institute of Statistics and Economic Studies
+	* [current](https://insee.fr/fr/information/4470857)
+	* [historic](https://www.insee.fr/fr/statistiques/4204054?sommaire=4204068#consulter-sommaire)
+
+### Germany
+* [Federal Statistics Office](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/sterbefallzahlen.html)
+
+### Iceland
+* [Statistics Iceland](https://hagstofa.is/utgafur/tilraunatolfraedi/danir-tt/)
+
+### Indonesia
+#### Jakarta
+* [Jakarta Provincial Park and Forest Service](https://pertamananpemakaman.jakarta.go.id/v813/t1p1/csv-data25.csv/YXNzZXRzL2RhdGEvY3N2LXBlbWFrYW1hbi8-)
+
+### Israel
+* [Minstry of Health](https://www.health.gov.il/UnitsOffice/HD/PH/epidemiology/Pages/epidemiology_report.aspx?WPID=WPQ7&PN=6)
+
+### Italy
+#### national
+* [National Institute for Social Security](https://www.inps.it/docallegatiNP/Mig/Dati_analisi_bilanci/Nota_CGSA_mortal_Covid19_def.pdf)  
+#### sub-national
+* [National Institute of Statistics](https://www.istat.it/en/archivio/240106)                                                                            
+### Netherlands
+* [Statistics Netherlands](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70895ned/table?ts=1585918931535)                                                                                                                                       |
+### Norway
+* [Statistics Norway](https://www.ssb.no/statbank/table/07995/)                                                                                                                                                                                     |
+### Peru
+* [Ministry of Health](https://cloud.minsa.gob.pe/s/BGCKJBWKELW8nDi/download?path=%2F&files=Carga_Tableau_12052020.xlsx&downloadStartSecret=ieif5k3ymp)                                                                                             |
+
+### Portugal
+* [Directorate-General for Health](https://evm.min-saude.pt/)                                                                                          
+### Russia
+#### Moscow
+* [Moscow city government](https://data.mos.ru/opendata/7704111479-dinamika-registratsii-aktov-grajdanskogo-sostoyaniya?pageNumber=1&versionNumber=3&releaseNumber=42)
+#### St Petersburg
+* [St Petersburg Civil Registry Committee](http://kzags.gov.spb.ru/statistics/#3)
+  
+### South Africa 
+* [Medical Research Council](https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa)                                                                                                                                                     |
+### Spain
+[Institute of Health Carlos III](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#datos)                                                                                                                                          |
+### Sweden
+* [Statistics Sweden](https://www.scb.se/contentassets/edc2b33f85ad415d8e7909002253ed84/2020-04-09---preliminar-statistik-over-doda-inkl-eng.xlsx)                                                                                                  |
+### Switzerland
+* [Federal Statistics Office](https://www.bfs.admin.ch/bfs/en/home/statistics/health/state-health/mortality-causes-death.html)                                                                                                                      |
+### Turkey
+#### Istanbul
+* [Istanbul Metropolitan Municipality](https://www.turkiye.gov.tr/istanbul-buyuksehir-belediyesi-vefat-sorgulama)
+
+### United Kingdom
+#### England & Wales
+* [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales)
+#### Northern Ireland
+* [Northern Ireland Statistics and Research Agency](https://www.nisra.gov.uk/publications/weekly-deaths)
+#### Scotland
+* [National Records of Scotland](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/general-publications/weekly-and-monthly-data-on-births-and-deaths/deaths-involving-coronavirus-covid-19-in-scotland)
+
+### United States
+* [National Center for Health Statistics](https://gis.cdc.gov/grasp/fluview/mortality.html)
