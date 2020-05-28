@@ -67,10 +67,11 @@ The following sources of data were used by Financial Times journalists to assemb
 * [Medical Research Council](https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa)
 
 ### Spain
-[Institute of Health Carlos III](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#datos)
+* [Institute of Health Carlos III](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#datos)
+For Spain's historical baseline, instead of our own year-year averages, we use a baseline for expected deaths that has been calculated by Spain’s [Daily Mortality Surveillance System](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#datos).
 
 ### Sweden
-* [Statistics Sweden](https://www.scb.se/contentassets/edc2b33f85ad415d8e7909002253ed84/2020-04-09---preliminar-statistik-over-doda-inkl-eng.xlsx)
+* [Statistics Sweden](https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/scb-publicerar-preliminar-statistik-over-doda-i-sverige/)
 
 ### Switzerland
 * [Federal Statistics Office](https://www.bfs.admin.ch/bfs/en/home/statistics/health/state-health/mortality-causes-death.html)
