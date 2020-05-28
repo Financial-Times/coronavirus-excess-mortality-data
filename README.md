@@ -1,7 +1,7 @@
 # Financial Times
 # Excess Mortality during the Covid-19 pandemic
 
-This repository contains excess mortality data for the period covering the 2020 Covid-19 pandemic. The data has been collected from [national, regional or municipal agencies](#sources) that collect death registrations and publish official mortality statistics. These original data reshaped into a standardised format by Financial Times journalists to allow cross-national comparisons, and has been used to inform the [FT’s reporting on the pandemic](#stories).
+This repository contains excess mortality data for the period covering the 2020 Covid-19 pandemic. The data has been collected from [national, regional or municipal agencies](#sources) that collect death registrations and publish official mortality statistics. These original data were reshaped into a standardised format by Financial Times journalists to allow cross-national comparisons, and has been used to inform the [FT’s reporting on the pandemic](#stories).
 
 The repository contains the excess mortality data for all known jurisdictions which publish all-cause mortality data meeting the following criteria:
 
