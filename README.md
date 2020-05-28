@@ -70,6 +70,10 @@ Additional contributors include [Chris Giles](https://www.ft.com/chris-giles), [
 
 To contact the team, please email [coronavirus-data@ft.com](mailto:cornoavirus-data@ft.com).
 
+## Related projects
+
+Similar work is being done by [The Economist](https://github.com/TheEconomist/covid-19-excess-deaths-tracker), the [New York Times](https://github.com/nytimes/covid-19-data/tree/master/excess-deaths) and [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data).
+
 ## How you can help
 
 If you are aware of a jurisdiction not already [listed here](https://github.com/Financial-Times/coronavirus-excess-mortality-data/blob/master/sources.md) which publishes all-cause mortality data that meets the criteria set out above, please send us a link to the source of that data at [coronavirus-data@ft.com](mailto:cornoavirus-data@ft.com).
