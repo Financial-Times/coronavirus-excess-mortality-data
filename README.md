@@ -1,7 +1,7 @@
 # Financial Times
-# Excess Mortality during the Covid-19 pandemic
+# Excess mortality during the Covid-19 pandemic
 
-This repository contains excess mortality data for the period covering the 2020 Covid-19 pandemic. The data has been collected from [national, regional or municipal agencies](#sources) that collect death registrations and publish official mortality statistics. These original data were reshaped into a standardised format by Financial Times journalists to allow cross-national comparisons, and has been used to inform the [FT’s reporting on the pandemic](#stories).
+This repository contains excess mortality data for the period covering the 2020 Covid-19 pandemic. The data has been gathered from [national, regional or municipal agencies](#sources) that collect death registrations and publish official mortality statistics. These original data were reshaped into a standardised format by Financial Times journalists to allow cross-national comparisons, and have been used to inform the [FT’s reporting on the pandemic](#stories).
 
 The repository contains the excess mortality data for all known jurisdictions which publish all-cause mortality data meeting the following criteria:
 
@@ -38,13 +38,13 @@ For each jurisdiction and each weekly or monthly period, the data contains the f
 The data published here were used to inform the following Financial Times stories and graphics:
 
 * Ongoing: [Coronavirus tracked: the latest figures as countries fight to contain the pandemic](https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441)
-* April 22, 2020: [UK coronavirus deaths more than double official figure, according to FT study](https://www.ft.com/content/67e6a4ee-3d05-43bc-ba03-e239799fa6ab)
-* April 26, 2020: [Global coronavirus death toll could be 60% higher than reported](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c)
-* April 28: [Low Covid-19 death toll raises hopes Africa may be spared worst](https://www.ft.com/content/e9cf5ed0-a590-4bd6-8c00-b41d0c4ae6e0)
-* May 5, 2020: [Turkey's virus deaths may be 25 per cent higher than official figure](https://www.ft.com/content/80bb222c-b6eb-40ea-8014-563cbe9e0117)
-* May 11, 2020: [Russia's Covid death toll could be 70 per cent higher than official figure](https://www.ft.com/content/77cd2cba-b0e2-4022-a265-e0a9a7930bda)
-* May 19, 2020: [UK deaths since virus struck almost 55,000 above average, says ONS](https://www.ft.com/content/f6a11fcd-0445-4643-9d3c-24d5fc0611da)
 * May 28, 2020: [UK suffers highest death rate from coronavirus](https://www.ft.com/content/6b4c784e-c259-4ca4-9a82-648ffde71bf0)
+* May 19, 2020: [UK deaths since virus struck almost 55,000 above average, says ONS](https://www.ft.com/content/f6a11fcd-0445-4643-9d3c-24d5fc0611da)
+* May 11, 2020: [Russia's Covid death toll could be 70 per cent higher than official figure](https://www.ft.com/content/77cd2cba-b0e2-4022-a265-e0a9a7930bda)
+* May 5, 2020: [Turkey's virus deaths may be 25 per cent higher than official figure](https://www.ft.com/content/80bb222c-b6eb-40ea-8014-563cbe9e0117)
+* April 28: [Low Covid-19 death toll raises hopes Africa may be spared worst](https://www.ft.com/content/e9cf5ed0-a590-4bd6-8c00-b41d0c4ae6e0)
+* April 26, 2020: [Global coronavirus death toll could be 60% higher than reported](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c)
+* April 22, 2020: [UK coronavirus deaths more than double official figure, according to FT study](https://www.ft.com/content/67e6a4ee-3d05-43bc-ba03-e239799fa6ab)
 
 ## Sources
 
@@ -54,13 +54,13 @@ The data published here has been gathered and standardised from [official source
 
 This software is published by the Financial Times under the [MIT license](https://opensource.org/licenses/MIT). 
 
-The data in the `data` directory of this repository is available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+The collected data in the `data` directory of this repository is available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 If you use this data, you must attribute it to "Financial Times" as well as the relevant originating agency or agencies listed above. If it is published online, we would appreciate a link to our [Coronavirus tracker page](https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441), where this material first appeared.
 
 Please let us know if you are using this data by contacting us at [coronavirus-data@ft.com](mailto:cornoavirus-data@ft.com). We may be interested in reporting on your work.
 
-Please note that MIT licence includes only the software, and the Creative Commons licence includes only the data included in this repository. Neither cover any FT content made available using the software or data, which is copyright © The Financial Times Limited, all rights reserved. For more information about re-publishing FT content, please contact our [syndication department](https://enterprise.ft.com/en-gb/services/republishing/).
+Please note that MIT licence includes only the software, and the Creative Commons licence includes only the data included in this repository. Neither cover any FT content created and made available using the software or data, which is copyright © The Financial Times Limited, all rights reserved. For more information about re-publishing FT content, please contact our [syndication department](https://enterprise.ft.com/en-gb/services/republishing/).
 
 ## Contributors
 
