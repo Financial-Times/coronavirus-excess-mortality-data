@@ -38,11 +38,12 @@ For each jurisdiction and each weekly or monthly period, the data contains the f
 The data published here were used to inform the following Financial Times stories and graphics:
 
 * Ongoing: [Coronavirus tracked: the latest figures as countries fight to contain the pandemic](https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441)
+* June 2, 2020: [Scotland’s coronavirus record flattered by contrasts with south](https://www.ft.com/content/a3fe315f-610a-4086-a6bc-a466a7f33aa1)
 * May 28, 2020: [UK suffers highest death rate from coronavirus](https://www.ft.com/content/6b4c784e-c259-4ca4-9a82-648ffde71bf0)
 * May 19, 2020: [UK deaths since virus struck almost 55,000 above average, says ONS](https://www.ft.com/content/f6a11fcd-0445-4643-9d3c-24d5fc0611da)
 * May 11, 2020: [Russia's Covid death toll could be 70 per cent higher than official figure](https://www.ft.com/content/77cd2cba-b0e2-4022-a265-e0a9a7930bda)
 * May 5, 2020: [Turkey's virus deaths may be 25 per cent higher than official figure](https://www.ft.com/content/80bb222c-b6eb-40ea-8014-563cbe9e0117)
-* April 28: [Low Covid-19 death toll raises hopes Africa may be spared worst](https://www.ft.com/content/e9cf5ed0-a590-4bd6-8c00-b41d0c4ae6e0)
+* April 28, 2020: [Low Covid-19 death toll raises hopes Africa may be spared worst](https://www.ft.com/content/e9cf5ed0-a590-4bd6-8c00-b41d0c4ae6e0)
 * April 26, 2020: [Global coronavirus death toll could be 60% higher than reported](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c)
 * April 22, 2020: [UK coronavirus deaths more than double official figure, according to FT study](https://www.ft.com/content/67e6a4ee-3d05-43bc-ba03-e239799fa6ab)
 
