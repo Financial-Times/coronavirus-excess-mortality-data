@@ -38,6 +38,7 @@ For each jurisdiction and each weekly or monthly period, the data contains the f
 The data published here were used to inform the following Financial Times stories and graphics:
 
 * Ongoing: [Coronavirus tracked: the latest figures as countries fight to contain the pandemic](https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441)
+* June 2, 2020: [UK excess deaths during pandemic reach 62,000](https://www.ft.com/content/3c53ab12-d859-4ceb-b262-f6a0221ca129)
 * June 2, 2020: [Scotland’s coronavirus record flattered by contrasts with south](https://www.ft.com/content/a3fe315f-610a-4086-a6bc-a466a7f33aa1)
 * May 28, 2020: [UK suffers highest death rate from coronavirus](https://www.ft.com/content/6b4c784e-c259-4ca4-9a82-648ffde71bf0)
 * May 19, 2020: [UK deaths since virus struck almost 55,000 above average, says ONS](https://www.ft.com/content/f6a11fcd-0445-4643-9d3c-24d5fc0611da)
