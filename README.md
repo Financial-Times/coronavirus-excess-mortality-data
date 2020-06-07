@@ -48,6 +48,10 @@ The data published here were used to inform the following Financial Times storie
 * April 26, 2020: [Global coronavirus death toll could be 60% higher than reported](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c)
 * April 22, 2020: [UK coronavirus deaths more than double official figure, according to FT study](https://www.ft.com/content/67e6a4ee-3d05-43bc-ba03-e239799fa6ab)
 
+This data has also been used in the reporting of these stories:
+
+* *El País,* June 6 2020: [España es el país con el segundo mayor exceso de muertes durante la crisis del coronavirus](https://elpais.com/sociedad/2020-06-05/espana-es-el-pais-con-el-segundo-mayor-exceso-de-muertes-durante-la-crisis-del-coronavirus.html)
+
 ## Sources
 
 The data published here has been gathered and standardised from [official sources](sources.md). Full details can be found [here](sources.md).
