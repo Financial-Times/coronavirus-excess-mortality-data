@@ -13,6 +13,9 @@ The following sources of data were used by Financial Times journalists to assemb
 ### Brazil
 * [Civil Registry of Brazil](https://transparencia.registrocivil.org.br/registros)
 
+### Bulgaria
+* [National Statistical Institute](https://www.nsi.bg/en/content/18162/basic-page/deaths-bulgaria-weeks)
+
 ### Chile
  * [Civil Registry of Chile](https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto32)
 
