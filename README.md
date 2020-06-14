@@ -28,7 +28,7 @@ For each jurisdiction and each weekly or monthly period, the data contains the f
 * `date`: the date at which the week ends
 * `deaths`: historical daily, weekly or monthly numbers of all-cause deaths for as far back as we have been able to obtain this data
 * `expected_deaths`: the median value of this data for the equivalent period in years from 2015 to 2019
-* `excess_deaths`: difference between `deaths` and `expected deaths` (negative values indiciate fewer deaths than the recent historical average)
+* `excess_deaths`: difference between `deaths` and `expected deaths` (negative values indicate fewer deaths than the recent historical average)
 * `excess_deaths_pct`: `excess_deaths` as a percentage of `expected_deaths`
 
 ## Stories
