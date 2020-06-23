@@ -13,6 +13,9 @@ The following sources of data were used by Financial Times journalists to assemb
 ### Brazil
 * [Civil Registry of Brazil](https://transparencia.registrocivil.org.br/registros)
 
+### Bulgaria
+* [National Statistical Institute](https://www.nsi.bg/en/content/18162/basic-page/deaths-bulgaria-weeks)
+
 ### Chile
  * [Civil Registry of Chile](https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto32)
 
@@ -53,7 +56,7 @@ The following sources of data were used by Financial Times journalists to assemb
 * [Statistics Norway](https://www.ssb.no/statbank/table/07995/)
 
 ### Peru
-* [Ministry of Health](https://cloud.minsa.gob.pe/s/BGCKJBWKELW8nDi/download?path=%2F&files=Carga_Tableau_12052020.xlsx&downloadStartSecret=ieif5k3ymp)
+* Ministry of Health, [National Information System for Deaths](https://www.minsa.gob.pe/defunciones/)
 
 ### Portugal
 * [Directorate-General for Health](https://evm.min-saude.pt/)                                                                                          
