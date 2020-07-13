@@ -48,9 +48,13 @@ The data published here were used to inform the following Financial Times storie
 * April 26, 2020: [Global coronavirus death toll could be 60% higher than reported](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c)
 * April 22, 2020: [UK coronavirus deaths more than double official figure, according to FT study](https://www.ft.com/content/67e6a4ee-3d05-43bc-ba03-e239799fa6ab)
 
-This data has also been used in the reporting of these stories:
+This data has also been used in the reporting news stories from other publications:
 
 * *El País,* June 6 2020: [España es el país con el segundo mayor exceso de muertes durante la crisis del coronavirus](https://elpais.com/sociedad/2020-06-05/espana-es-el-pais-con-el-segundo-mayor-exceso-de-muertes-durante-la-crisis-del-coronavirus.html)
+
+This data has been used in the the following academic publications:
+
+* Dergiades, Theologos and Milas, Costas and Mossialos, Elias and Panagiotidis, Theodore, Effectiveness of Government Policies in Response to the COVID-19 Outbreak (May 15, 2020). Available at SSRN: [https://ssrn.com/abstract=3602004](https://ssrn.com/abstract=3602004) or [http://dx.doi.org/10.2139/ssrn.3602004](http://dx.doi.org/10.2139/ssrn.3602004)
 
 ## Sources
 
@@ -78,7 +82,7 @@ To contact the team, please email [coronavirus-data@ft.com](mailto:cornoavirus-d
 
 ## Related projects
 
-Similar work is being done by [The Economist](https://github.com/TheEconomist/covid-19-excess-deaths-tracker), the [New York Times](https://github.com/nytimes/covid-19-data/tree/master/excess-deaths) and [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data).
+Similar work is being done by [The Economist](https://github.com/TheEconomist/covid-19-excess-deaths-tracker), the [New York Times](https://github.com/nytimes/covid-19-data/tree/master/excess-deaths), [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data) and [Newsworthy](https://gitlab.com/newsworthy/jpp.2005.excess.deaths.data).
 
 ## How you can help
 
