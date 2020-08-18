@@ -43,6 +43,7 @@ The following sources of data were used by Financial Times journalists to assemb
 
 ### Israel
 * [Minstry of Health](https://www.health.gov.il/UnitsOffice/HD/PH/epidemiology/Pages/epidemiology_report.aspx?WPID=WPQ7&PN=6)
+* [Central Bureau of Statistics](https://www.cbs.gov.il/he/publications/LochutTlushim/2020/%D7%A4%D7%98%D7%99%D7%A8%D7%95%D7%AA-2000-2020-%D7%9C%D7%A4%D7%99-%D7%A9%D7%91%D7%95%D7%A2.xlsx)
 
 ### Italy
 #### national
