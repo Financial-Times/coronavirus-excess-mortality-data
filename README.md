@@ -1,7 +1,7 @@
 # Financial Times
 # Excess mortality during the Covid-19 pandemic
 
-This repository contains excess mortality data for the period covering the 2020 Covid-19 pandemic. The data has been gathered from [national, regional or municipal agencies](#sources) that collect death registrations and publish official mortality statistics. These original data were reshaped into a standardised format by Financial Times journalists to allow cross-national comparisons, and have been used to inform the [FT’s reporting on the pandemic](#stories).
+This repository contains excess mortality data for the period covering the 2020-21 Covid-19 pandemic. The data has been gathered from [national, regional or municipal agencies](#sources) that collect death registrations and publish official mortality statistics. These original data were reshaped into a standardised format by Financial Times journalists to allow cross-national comparisons, and have been used to inform the [FT’s reporting on the pandemic](#stories).
 
 The repository contains the excess mortality data for all known jurisdictions which publish all-cause mortality data meeting the following criteria:
 
@@ -27,8 +27,8 @@ For each jurisdiction and each weekly or monthly period, the data contains the f
 * `week`: week number is either taken exactly from countries’ own data, or is calculated using the following method: for countries reporting daily data, we take the most recent run of seven days in the data to be the most recent week, and then aggregate each prior seven-day run into a new week, with any trailing period fewer than seven days at start of January clipped off
 * `date`: the date at which the week ends
 * `deaths`: historical daily, weekly or monthly numbers of all-cause deaths for as far back as we have been able to obtain this data
-* `expected_deaths`: the median value of this data for the equivalent period in years from 2015 to 2019
-* `excess_deaths`: difference between `deaths` and `expected deaths` (negative values indicate fewer deaths than the recent historical average)
+* `expected_deaths`: the expected number of deaths for the same place and period, adjusted for recent trends in mortality and population growth
+* `excess_deaths`: difference between `deaths` and `expected deaths` (negative values indicate fewer deaths than expected)
 * `excess_deaths_pct`: `excess_deaths` as a percentage of `expected_deaths`
 
 ## Stories
@@ -58,7 +58,7 @@ This data has been used in the the following academic publications:
 
 ## Sources
 
-The data published here has been gathered and standardised from [official sources](sources.md). Full details can be found [here](sources.md).
+The data published here has been gathered and standardised from [official sources](sources.md), either directly by the Financial Times data team, or by the independent researchers Ariel Karlinsky and Dmitry Kobak, who maintain the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality). Full details can be found [here](sources.md).
 
 ## License and attribution
 
@@ -82,7 +82,7 @@ To contact the team, please email [coronavirus-data@ft.com](mailto:cornoavirus-d
 
 ## Related projects
 
-Similar work is being done by [The Economist](https://github.com/TheEconomist/covid-19-excess-deaths-tracker), the [New York Times](https://github.com/nytimes/covid-19-data/tree/master/excess-deaths), [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data) and [Newsworthy](https://gitlab.com/newsworthy/jpp.2005.excess.deaths.data).
+Similar work is being done by [The Economist](https://github.com/TheEconomist/covid-19-excess-deaths-tracker), the [New York Times](https://github.com/nytimes/covid-19-data/tree/master/excess-deaths), [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data), [Newsworthy](https://gitlab.com/newsworthy/jpp.2005.excess.deaths.data) and the team behind the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality).
 
 ## How you can help
 

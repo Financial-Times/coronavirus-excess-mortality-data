@@ -39,15 +39,12 @@ The following sources of data were used by Financial Times journalists to assemb
 
 ### Indonesia
 #### Jakarta
-* [Jakarta Provincial Park and Forest Service](https://pertamananpemakaman.jakarta.go.id/v813/t1p1/csv-data25.csv/YXNzZXRzL2RhdGEvY3N2LXBlbWFrYW1hbi8-)
+* [Jakarta Provincial Park and Forest Service](https://docs.google.com/spreadsheets/d/13oMUqcMijveq00qhSTtQnzJXNuhcdXwDtBRSHQWWLaU/edit#gid=1364697398)
 
 ### Israel
 * [Minstry of Health](https://www.health.gov.il/UnitsOffice/HD/PH/epidemiology/Pages/epidemiology_report.aspx?WPID=WPQ7&PN=6)
 
 ### Italy
-#### national
-* [National Institute for Social Security](https://www.inps.it/docallegatiNP/Mig/Dati_analisi_bilanci/Nota_CGSA_mortal_Covid19_def.pdf)  
-#### sub-national
 * [National Institute of Statistics](https://www.istat.it/en/archivio/240106)                                                                            
 ### Netherlands
 * [Statistics Netherlands](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70895ned/table?ts=1585918931535)
@@ -61,19 +58,13 @@ The following sources of data were used by Financial Times journalists to assemb
 ### Portugal
 * [Directorate-General for Health](https://evm.min-saude.pt/)                                                                                          
 ### Russia
-#### Moscow
-* [Moscow city government](https://data.mos.ru/opendata/7704111479-dinamika-registratsii-aktov-grajdanskogo-sostoyaniya?pageNumber=1&versionNumber=3&releaseNumber=42)
-#### St Petersburg
-* [St Petersburg Civil Registry Committee](http://kzags.gov.spb.ru/statistics/#3)
+* [Federal State Statistics Service](https://www.fedstat.ru/indicator/33556)
   
 ### South Africa 
 * [Medical Research Council](https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa)
 
 ### Spain
-
-* [Institute of Health Carlos III](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#datos)
-
-For Spain's historical baseline, instead of our own year-year averages, we use a baseline for expected deaths that has been calculated by Spain’s [Daily Mortality Surveillance System](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#datos).
+* [National Institute of Statistics](https://www.ine.es/jaxiT3/Datos.htm?t=35177#!tabs-tabla)
 
 ### Sweden
 * [Statistics Sweden](https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/scb-publicerar-preliminar-statistik-over-doda-i-sverige/)
@@ -95,3 +86,5 @@ For Spain's historical baseline, instead of our own year-year averages, we use a
 
 ### United States
 * [National Center for Health Statistics](https://gis.cdc.gov/grasp/fluview/mortality.html)
+
+In addition to the above, raw mortality data for an additional 60 countries is taken from the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality), which is maintained by independent researchers Ariel Karlinsky and Dmitry Kobak.
