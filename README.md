@@ -13,7 +13,7 @@ Most countries publish mortality data with a longer periodicity (typically quart
 
 ## Data
 
-All of the data can be found in the file [data/ft_excess_deaths.csv](https://github.com/Financial-Times/coronavirus-excess-mortality-data/blob/master/data/ft_excess_deaths.csv).
+All of the data can be found in the file [data/ft_excess_deaths.csv](https://github.com/Financial-Times/coronavirus-excess-mortality-data/blob/main/data/ft_excess_deaths.csv).
 
 ## Data definitions
 
@@ -86,6 +86,6 @@ Similar work is being done by [The Economist](https://github.com/TheEconomist/co
 
 ## How you can help
 
-If you are aware of a jurisdiction not already [listed here](https://github.com/Financial-Times/coronavirus-excess-mortality-data/blob/master/sources.md) which publishes all-cause mortality data that meets the criteria set out above, please send us a link to the source of that data at [coronavirus-data@ft.com](mailto:cornoavirus-data@ft.com).
+If you are aware of a jurisdiction not already [listed here](https://github.com/Financial-Times/coronavirus-excess-mortality-data/blob/main/sources.md) which publishes all-cause mortality data that meets the criteria set out above, please send us a link to the source of that data at [coronavirus-data@ft.com](mailto:cornoavirus-data@ft.com).
 
-Alternatively, please submit a pull request to this repository adding the relevant information to the file [sources.md](https://github.com/Financial-Times/coronavirus-excess-mortality-data/blob/master/sources.md).
+Alternatively, please submit a pull request to this repository adding the relevant information to the file [sources.md](https://github.com/Financial-Times/coronavirus-excess-mortality-data/blob/main/sources.md).
